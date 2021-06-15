@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Change here is push :");
+            Console.WriteLine("Change Made in ChnageBranch :");
         }
     }
 }
