@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Change Made in ChnageBranch :");
+            Console.WriteLine("Change made during Review  :");
         }
     }
 }
